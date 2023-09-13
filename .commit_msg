@@ -1,0 +1,25 @@
+
+# Commit message template --Conventional Commits
+#
+# <type>[optional scope]: <description>
+#
+# [optional body]
+#
+# [optional footer(s)]al footer]
+#
+#
+# ---------------type---------------
+# build     : ビルドに関する変更
+# ci        : CIに関するコミット
+# docs      : ドキュメントの更新・追加など
+# feat      : 新機能の実装など
+# fix       : バグの修正
+# perf      : パフォーマンスの改善
+# refactor  : コードのリファクタリング
+# revert    : コードの巻き戻し
+# style     : UIなどのデザインに関する変更
+# test      : テストに関するコミット
+# chore     : (雑用)その他のコミット
+# --------------footer--------------
+# Refs: <issue number> : Issueを修正した場合はissueの番号を記入する
+# BREAKING CHANGE      : 破壊的な修正を行った場合に記入
